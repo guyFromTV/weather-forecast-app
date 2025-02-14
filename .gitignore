@@ -1,0 +1,26 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Virtual environment
+weather_app/
+
+# Django-related
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+
+# .env file for sensitive data
+.env
+
+# IDE and editor-related files
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
